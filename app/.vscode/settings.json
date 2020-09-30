@@ -1,0 +1,9 @@
+{
+    "activitusbar.alignment": "Right",
+    "activitusbar.priority": -99999,
+    "Navigate back": false,
+    "Navigate forward": false,
+    "Open files list": false,
+    "Undo": true,
+    "Redo": true
+}

@@ -1,0 +1,21 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "express": "*",
+    "mongoose": "*",
+    "bcrypt": "*",
+    "passport": "*",
+    "passport-jwt": "*",
+    "body-parser": "*",
+    "cors": "*",
+    "jsonwebtoken": "*"
+  },
+  "author": "",
+  "license": "ISC"
+}
